@@ -1,0 +1,18 @@
+{
+    "name": "liquid.commonutils.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7e3237f987349e84094bc2fbb23d1c12"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

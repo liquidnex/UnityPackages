@@ -1,0 +1,24 @@
+{
+  "name": "com.liquid.skillsystem",
+  "version": "1.0.0",
+  "displayName": "Skill System",
+  "description": "Provides a skill-buff system based on attributes and fields.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.liquid.commonutils": "1.0.0"
+  },
+  "keywords": [
+    "Skill",
+    "Buff"
+  ],
+  "author": {
+    "name": "Liquid"
+  },
+  "samples": [
+    {
+      "displayName": "Sample(Skill System)",
+      "description": "Contains usage examples for skill system.",
+      "path": "Samples~/Sample(Skill System)"
+    }
+  ]
+}

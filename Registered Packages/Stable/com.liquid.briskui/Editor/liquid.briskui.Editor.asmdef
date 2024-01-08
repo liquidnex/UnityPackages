@@ -1,0 +1,20 @@
+{
+    "name": "liquid.briskui.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e1293c230d24c914fa80a1668a8d5fcf",
+        "GUID:7e3237f987349e84094bc2fbb23d1c12",
+        "GUID:973e75083b87f6f4ca353552976c666f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.liquid.objectpool",
+  "version": "1.0.0",
+  "displayName": "Object Pool",
+  "description": "It provides a dynamic object life cycle manager with the function of historical pattern matching prediction based on statistics.",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": [
+    "Object Pool",
+    "Pattern Prediction"
+  ],
+  "author": {
+    "name": "Stellar Liquid"
+  },
+  "samples": [
+    {
+      "displayName": "Sample(Object Pool)",
+      "description": "Contains usage examples for object pool.",
+      "path": "Samples~/Sample(Object Pool)"
+    }
+  ]
+}

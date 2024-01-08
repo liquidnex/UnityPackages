@@ -1,0 +1,21 @@
+{
+  "name": "com.liquid.assetbundletoolkit",
+  "version": "1.0.0",
+  "displayName": "AssetBundle Toolkit",
+  "description": "Provide assetbundle toolkit.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.liquid.commonutils": "1.0.0"
+  },
+  "keywords": [
+    "Asset",
+    "AssetBundle",
+    "Pipeline",
+    "Package",
+    "CI/CD",
+    "Builder"
+  ],
+  "author": {
+    "name": "Liquid"
+  }
+}

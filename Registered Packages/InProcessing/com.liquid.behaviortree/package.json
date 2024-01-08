@@ -1,0 +1,24 @@
+{
+  "name": "com.liquid.behaviortree",
+  "version": "1.0.0",
+  "displayName": "Behavior Tree",
+  "description": "It provides a node-event driven behavior tree system.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.liquid.commonutils": "1.0.0"
+  },
+  "keywords": [
+    "AI",
+    "Behavior Tree"
+  ],
+  "author": {
+    "name": "Liquid"
+  },
+  "samples": [
+    {
+      "displayName": "Sample(Behavior Tree)",
+      "description": "Contains usage examples for behavior tree.",
+      "path": "Samples~/Sample(Behavior Tree)"
+    }
+  ]
+}

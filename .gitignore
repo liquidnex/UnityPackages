@@ -1,0 +1,11 @@
+/Library/
+/Logs/
+/obj/
+/Temp/
+/UserSettings/
+.vs/
+.vsconfig
+*.sln
+*.csproj
+*.DS_Store
+*.o

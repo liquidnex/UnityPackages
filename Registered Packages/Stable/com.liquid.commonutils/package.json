@@ -1,0 +1,87 @@
+{
+  "name": "com.liquid.commonutils",
+  "version": "1.0.0",
+  "displayName": "Common Utils",
+  "description": "Provide a basic toolkit for development.",
+  "unity": "2021.3",
+  "dependencies": {},
+  "keywords": [
+    "Common",
+    "Util",
+    "CSV",
+    "Extension",
+    "Tool",
+    "Editor",
+    "String",
+    "Graphic",
+    "3D",
+    "Data",
+    "Type System",
+    "GameObject",
+    "Factory",
+    "FSM",
+    "Debug",
+    "Log",
+    "Job Manager",
+    "Environment",
+    "Network",
+    "Unity Web Request",
+    "Remote File",
+    "Timer"
+  ],
+  "author": {
+    "name": "Liquid"
+  },
+  "samples": [
+    {
+      "displayName": "Sample(String Extension)",
+      "description": "Contains usage examples for string extension.",
+      "path": "Samples~/Sample(String Extension)"
+    },
+    {
+      "displayName": "Sample(Type Util)",
+      "description": "Contains usage examples for type util.",
+      "path": "Samples~/Sample(Type Util)"
+    },
+    {
+      "displayName": "Sample(GameObject Util)",
+      "description": "Contains usage examples for gameObject util.",
+      "path": "Samples~/Sample(GameObject Util)"
+    },
+    {
+      "displayName": "Sample(Singleton)",
+      "description": "Contains usage examples for singleton.",
+      "path": "Samples~/Sample(Singleton)"
+    },
+    {
+      "displayName": "Sample(Factory)",
+      "description": "Contains usage examples for factory.",
+      "path": "Samples~/Sample(Factory)"
+    },
+    {
+      "displayName": "Sample(FSM)",
+      "description": "Contains usage examples for FSM.",
+      "path": "Samples~/Sample(FSM)"
+    },
+    {
+      "displayName": "Sample(CSV Util)",
+      "description": "Contains usage examples for CSV Util.",
+      "path": "Samples~/Sample(CSV Util)"
+    },
+    {
+      "displayName": "Sample(Job Manager)",
+      "description": "Contains usage examples for job manager.",
+      "path": "Samples~/Sample(Job Manager)"
+    },
+    {
+      "displayName": "Sample(Environment Manager)",
+      "description": "Contains usage examples for environment manager.",
+      "path": "Samples~/Sample(Environment Manager)"
+    },
+    {
+      "displayName": "Sample(Timer)",
+      "description": "Contains usage examples for timer.",
+      "path": "Samples~/Sample(Timer)"
+    }
+  ]
+}

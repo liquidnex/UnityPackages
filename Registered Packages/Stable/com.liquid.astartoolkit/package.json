@@ -1,0 +1,23 @@
+{
+  "name": "com.liquid.astartoolkit",
+  "version": "1.0.0",
+  "displayName": "A-Star Toolkit",
+  "description": "Use A* algorithm to provide routing tools in static road network.",
+  "unity": "2021.3",
+  "keywords": [
+    "A-Star",
+    "Toolkit",
+    "Algorithm",
+    "Pathfinding"
+  ],
+  "author": {
+    "name": "Liquid"
+  },
+  "samples": [
+    {
+      "displayName": "Sample(A-Star Toolkit)",
+      "description": "Contains usage examples for this A* pathfinding.",
+      "path": "Samples~/Sample(A-Star Toolkit)"
+    }
+  ]
+}

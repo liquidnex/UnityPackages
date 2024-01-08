@@ -1,0 +1,17 @@
+{
+  "name": "com.liquid.briskui",
+  "version": "1.0.0",
+  "displayName": "Brisk UI",
+  "description": "Simple and clear UI framework.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.6",
+    "com.liquid.commonutils": "1.0.0"
+  },
+  "keywords": [
+    "UI"
+  ],
+  "author": {
+    "name": "Liquid"
+  }
+}

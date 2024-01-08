@@ -1,0 +1,20 @@
+{
+    "name": "liquid.assetbundletoolkit.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:e1293c230d24c914fa80a1668a8d5fcf",
+        "GUID:7e3237f987349e84094bc2fbb23d1c12",
+        "GUID:85204b32a92a17246baa7f13a443fb42"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

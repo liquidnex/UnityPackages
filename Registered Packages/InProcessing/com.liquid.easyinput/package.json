@@ -1,0 +1,21 @@
+{
+  "name": "com.liquid.easyinput",
+  "version": "1.0.0",
+  "displayName": "Easy Input",
+  "description": "Provide integration and management tools for input events.",
+  "unity": "2021.3",
+  "keywords": [
+    "Input",
+    "I/O"
+  ],
+  "author": {
+    "name": "Liquid"
+  },
+  "samples": [
+    {
+      "displayName": "Sample(Easy Input)",
+      "description": "Contains usage examples for easy input.",
+      "path": "Samples~/Sample(Easy Input)"
+    }
+  ]
+}
